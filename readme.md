@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [nitinaugustine.substack.com](nitinaugustine.substack.com)
 
-- 💬 Ask me about **AI/ML, product strategy**
+- 💬 Ask me about **AI/ML, product strategy, data analytics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
