@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin Augustine</h1>
-<h3 align="center">Passionate for building great software products</h3>
+<h3 align="center">Passionate about building great software products</h3>
 
 <img align ="right" alt="Coding" width="400" src="https://www.renesas.com/sites/default/files/media/images/20190603-camera-obstacle-detection.jpg">
 
